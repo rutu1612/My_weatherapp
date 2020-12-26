@@ -1,0 +1,18 @@
+body{
+    background-color: lavender;
+    background-image: url('img/sea.jpg');
+    background-size: 100% 100%;
+}
+.container{
+    max-width: 400px;
+  }
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
+.card{
+    background-color: lightgrey;
+}
